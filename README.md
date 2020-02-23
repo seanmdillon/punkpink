@@ -1,8 +1,10 @@
 # PunkPink
 
+![ ](https://github.com/seanmdillon/punkpink/blob/master/punkpink-logo.png)
+
 A Steampunk Punk Pink inspired theme for Visual Studio Code.
 
-![screenshot](https://github.com/seanmdillon/punkpink/punkpink-logo.png)
+![screenshot](https://github.com/seanmdillon/punkpink/blob/master/screenshot.png)
 
 **Currently supports:**
 - Python
