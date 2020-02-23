@@ -1,0 +1,37 @@
+{
+	"name": "punkpink",
+	"displayName": "PunkPink",
+	"description": "Steampunk's PunkPink syntax theme",
+	"version": "0.0.9",
+	"publisher": "seanmdillon",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/seanmdillon/punkpink"
+	},
+	"icon": "steampunk-punkpink.png",
+	"galleryBanner": {
+		"color": "#292e34",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.25.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "PunkPink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/punkpunk-color-theme.json"
+			},
+			{
+				"label": "PunkPink Italic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/punkpink-italic-color-theme.json"
+			}
+		]
+	},
+	"license": "MIT"
+}
